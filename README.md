@@ -85,4 +85,4 @@ This tool is for educational and research purposes only. The developer does not 
 
 ---
 
-MADE WITH LOVE
+<p align="center">Made with Love ❤️</p>
