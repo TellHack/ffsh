@@ -25,7 +25,6 @@ A powerful phishing tool for educational and research purposes. This tool allows
 - Ubuntu
 - Arch Linux
 - macOS
-- git (bash)
 
 ### TESTED ON:
 - Termux App
