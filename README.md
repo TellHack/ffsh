@@ -4,7 +4,7 @@
   FreeFire ID Hack Use Termux
 </p>
 <p align="center">
-<a><img title="Made in INDIA" src="https://img.shields.io/badge/MADE%20IN-INDIA-SCRIPT?colorA=%23ff8100&colorB=%23017e40&colorC=%23ff0000&style=for-the-badge"></a>
+<a><img title="Made in INDIA" src="https://img.shields.io/badge/MADE%20IN-INDIA&INDONESIA-SCRIPT?colorA=%23ff8100&colorB=%23017e40&colorC=%23ff0000&style=for-the-badge"></a>
 </p>
 ---
 <br>
@@ -84,3 +84,5 @@ bash install
 This tool is for educational and research purposes only. The developer does not promote or support any illegal activity. Use this tool responsibly and with permission from the owner of the system or service being tested.
 
 ---
+
+MADE WITH LOVE
